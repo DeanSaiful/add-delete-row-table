@@ -18,4 +18,4 @@ To get a local copy of this project up and running, follow these steps:
   5. Responsive and visually appealing design.
 
 # Contributing
-Contributions to this project are welcome! If you would like to contribute, please follow these steps:
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
