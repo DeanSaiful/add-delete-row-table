@@ -1,0 +1,39 @@
+.container {
+    width: 350px;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border: none;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th:nth-child(1),
+td:nth-child(1) {
+    width: 100px; /* Width for the first column */
+}
+
+th:nth-child(2),
+td:nth-child(2) {
+    width: 100px; /* Width for the second column */
+}
+
+th:nth-child(3),
+td:nth-child(3) {
+    width: 100px; /* Width for the third column */
+}
+
+.button-addRow {
+    margin-top: 10px;
+}
