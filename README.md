@@ -1,5 +1,5 @@
 # add-delete-row-table
-This project demonstrates a simple HTML table where you can dynamically add and delete rows. The table consists of three columns: "Column 1," "Column 2," and "Column 3.
+This project demonstrates a simple HTML table using javascript where you can dynamically add and delete rows. The table consists of three columns: "Column 1," "Column 2," and "Column 3.
 
 # Usage
 To use this project, simply open the index.html file in your web browser. The table will be displayed along with an "Add" button. Clicking the "Add" button will add a new row to the table, and each row will have a "Delete" button to remove that specific row.
